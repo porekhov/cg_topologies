@@ -2,3 +2,5 @@ MARTINI 2 parameters for:
 EOL.itp - ethanol
 LID.itp - lidocaine
 martini_v2.0_lipids_all_201506.itp, see PCN residue - linoleic acid
+
+Reference: https://doi.org/10.3390/membranes11060410
