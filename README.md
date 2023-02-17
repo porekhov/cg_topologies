@@ -1,4 +1,4 @@
-A collection of topologies developed for molecular dynamics simulations using the MARTINI CG force field.
+A collection of topologies developed for molecular dynamics simulations using the MARTINI CG force field, http://cgmartini.nl/.
 
 ./LID_ET_LA_topologies
 
